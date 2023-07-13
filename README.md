@@ -18,7 +18,7 @@
 <p><b>Expert Customer Support:</b> Our dedicated customer support team is always ready to assist you with any queries, concerns, or sizing advice. We strive to provide prompt and helpful assistance to ensure your shopping experience is smooth and enjoyable.</p>
 
 # Get Started
-<p>Ready to step into the world of stylish footwear? Visit our website at www.shoezone.com to explore our vast collection and find the perfect pair that suits your style and needs. Join our growing community of shoe enthusiasts today!</p>
+<p>Ready to step into the world of stylish footwear? Visit our website at https://abubakrswebsite.netlify.app to explore our vast collection and find the perfect pair that suits your style and needs. Join our growing community of shoe enthusiasts today!</p>
 
 # Websites Frameworks
 <p>2: HTML
